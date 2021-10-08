@@ -1,0 +1,21 @@
+# This is a basic workflow to help you get started with Actions
+name: Create Team Acknowledgement for SBV Project
+# Controls when the action will run. 
+on:
+     issues:
+      types: [assigned]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:            
+      - uses: actions/checkout@v2
+        with:
+          repository: ${{ github.repository }}
+          fetch-depth: 1
+      - uses: migarjo/issue-from-template@master
+        name: createIssue
+        if: ${{ contains(github.event.issue.labels.*.name, 'volunteer-ask') }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          IFT_TEMPLATE_NAME: "request-for-manager-acknowledgement.md"
+          NEW_ASSIGNEE: ${{ github.event.assignee.login }}
