@@ -1,1 +1,0 @@
-[![Watch the Immigration Rights in USA training](https://github.com/github/SI-skills-based-volunteering/blob/main/Webinars/Immigration%20Rights%20in%20USA.png)](https://drive.google.com/file/d/1DpcPVCYwOgISAweDxFPPH6GqJzjyqiaC/view?usp=sharing)
