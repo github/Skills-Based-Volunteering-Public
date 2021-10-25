@@ -1,4 +1,4 @@
-# Social Impact, Skills-Based Volunteering Program
+# Skills-Based Volunteering Program
 
 ## About
 
