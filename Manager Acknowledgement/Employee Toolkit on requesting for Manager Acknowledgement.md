@@ -17,16 +17,16 @@ There are some options on how to request for the Manager Acknowledgement:
 - SBV Program Manager can help submit a request to your Manager on your behalf with the blurb below:
 
     **Request for Manager Acknowledgement**
-    *To be filled out by employees volunteer*
+    *To be filled out by employees*
     * Partner Organization(s): *e.g. DHIS2, Greenpeace*
     * Volunteer Ask: *link to Project Issue here*
     * Commitment: *e.g. 5-10 hours over three months + required webinar training (30 mins)*
     * Engagement period: *e.g. October 2020 - January 2021*
     
     **Manager Acknowledgement**
-     *To be filled out by employees volunteer’s Manager*
+     *To be filled out by employee’s Manager*
 
-     - [ ] **[Manager's GitHub Handle]** confirms **[Volunteer employees's GitHub Handle]** is available to volunteer with the Social Impact Skills Based Volunteering Program
+     - [ ] **[Manager's GitHub Handle]** confirms **[Volunteer employees' GitHub Handle]** is available to volunteer with the Social Impact Skills Based Volunteering Program
      - Other Manager requirements: *insert description*
 
 
