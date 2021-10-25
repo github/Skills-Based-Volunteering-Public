@@ -13,7 +13,7 @@ We aim to match skilled employees with partner social sector organizations to he
 ### Open Projects
 |Project   | Anticipated Start Date  | Anticipated End Date   |  Status |
 |---|:---:|:---:|:---:| 
-|  [World Food Programme - Legal Consultation](https://github.com/github/SI-skills-based-volunteering/issues/78)   |  September | October | Fully Staffed |
+|  [Grassroots Community organization - Legal Consultation](https://github.com/github/SI-skills-based-volunteering/issues/78)   |  September | October | Fully Staffed |
 | [World Food Programme: Guatemala Small Holder Farmers - Moving Code to GitHub](https://github.com/github/SI-skills-based-volunteering/issues/84)|  September | November | 1 Spanish speaking Hubber Required |
  
 
