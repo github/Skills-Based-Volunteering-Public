@@ -1,6 +1,6 @@
 # Manager's Toolkit for Reviewing Manager Acknowledgement requests #
 
-## What is Skills0Based Volunteering? ##
+## What is Skills-Based Volunteering? ##
 
 Skills-Based volunteering are opportunities where employees can help provide solutions to complex business and technical problems for social sector organizations (including the United Nations and NGOs) that are solving the world's biggest social issues. Skills based volunteering can help employees hone and perfect a skill, help provide capacity to impactful social organizations, and assist organizations accomplish their mission in making the world a better place.
 
