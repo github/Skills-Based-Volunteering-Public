@@ -25,7 +25,7 @@ We encourage open communication and can help redirect employees to alternate ave
 
 ## What happens after I approve an employees’ request to join a SBV project? ##
 Once employees is approved for a project:
-- employees will attend a webinar on Tech for Social Good
+- Employees will attend a webinar on Tech for Social Good
 - A kick off meeting with partner organization
 - Complete project activities
 - Project wrap up and final report
