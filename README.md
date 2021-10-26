@@ -49,8 +49,6 @@ All employees are welcome!
 - People with tech consulting / tech scoping experience
 - Product Management
 
-### Program Global Workflow
-![Phase 1 Global Workflow](https://github.com/github/SI-skills-based-volunteering/blob/main/Skills-Based%20Volunteering%20Global%20Workflow-Phase1.png)
 
 ## What's in this Repo
 
