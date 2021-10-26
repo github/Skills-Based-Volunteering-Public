@@ -25,13 +25,13 @@ Skills-Based Volunteering Programs aim to match skilled employees with partner s
 4. Sign up for the intro to tech for social good and topic webinars training
 5. Assign yourself to the [Issue](https://github.com/github/Skills-Based-Volunteering-Public/issues) with the volunteer ask you want.
 
-\*Note that every Hubber who wishes to volunteer must complete the general tech for social good webinar and any webinars related to their partner org's topics.\*
+\*Note that every employee who wishes to volunteer must complete the general tech for social good webinar and any webinars related to their partner org's topics.\*
 
 _Please do not reach out to partner orgs directly! This cuts down on confusion and streamlines communication_
 ### Volunteer Profiles Currently in Need
 **Who can Volunteer**
 
-All employees are welcome! Please note: Contractors are welcome to join as well. The volunteering hours are non-billable.
+All employees are welcome! 
 
 **Skills**
 - JavaScript devs
@@ -65,12 +65,11 @@ Check out the [Partner Organization](https://github.com/github/Skills-Based-Volu
 [See the Wiki](https://github.com/github/SI-skills-based-volunteering/wiki)
 
 
-### Case Studies
+### Case Studies of GitHub's SBV program
 [Mobile Pathways](https://socialimpact.github.com/insights/Skills-Based-Volunteering-case-study-Data-visualization-with-Mobile-Pathways/)
 
 
 ### Webinars
 
-Learn about the best practices for skills based volunteering through our [webinars](https://github.com/github/Skills-Based-Volunteering-Public/tree/main/Webinars).
-
+Learn about the best practices for skills based volunteering through training webinars.
 
