@@ -21,7 +21,7 @@ Skills-Based Volunteering Programs aim to match skilled employees with partner s
 1. [Browse current volunteer asks in Issues](https://github.com/github/Skills-Based-Volunteering-Public/issues)
 2. Confirm with your Team/Manager you are available to volunteer and provide the acknowledgement confirmation message
     - [Here](https://github.com/github/Skills-Based-Volunteering-Public/blob/main/Manager%20Acknowledgement/Manager%20Acknowledgement%20Form%20-%20Hubbers%2C%20Skills-based%20Volunteering.md) is a sample of what you can send to your Team/Manager to confirm your involvement and a [Employee Toolkit](https://github.com/github/Skills-Based-Volunteering-Public/blob/main/Manager%20Acknowledgement/Employee%20Toolkit%20on%20requesting%20for%20Manager%20Acknowledgement.md) to help you out on this
-    - Manager's please refer to the [Team/Manager Acknowledgement Toolkit](https://github.com/github/SI-skills-based-volunteering/blob/main/Manager%20Acknowledgement/Manager%20Toolkit%20Reviewing%20Acknowledgement%20Requests.md) for more information.
+    - Manager's please refer to the [Team/Manager Acknowledgement Toolkit]([https://github.com/github/SI-skills-based-volunteering/blob/main/Manager%20Acknowledgement/Manager%20Toolkit%20Reviewing%20Acknowledgement%20Requests.md](https://github.com/github/Skills-Based-Volunteering-Public/blob/main/Manager%20Acknowledgement/Manager%20Toolkit%20Reviewing%20Acknowledgement%20Requests.md)) for more information.
 4. Sign up for the intro to tech for social good and topic webinars training
 5. Assign yourself to the [Issue](https://github.com/github/Skills-Based-Volunteering-Public/issues) with the volunteer ask you want.
 
