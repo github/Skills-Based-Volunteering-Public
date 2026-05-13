@@ -14,7 +14,7 @@ The [United Nations World Food Programme](https://www.wfp.org/) (WFP) is one of 
 
 # About the WFP Project
 
-_To see descriptions and examples of project maturity levels, [(right) click to read this deck in a new tab](https://docs.google.com/presentation/d/1fVOChiPK4xJKT5s9W2M_MXqz0VcLwh3jx31c1HBqgPM/edit?usp=sharing)._
+_To see descriptions and examples of project maturity levels, [(right) click to read this deck in a new tab](https://microsoft.sharepoint.com/teams/GitHubITSupport/Sensitive%20Xubber%20Data/malakumar85@github.com/Skills-Based%20Volunteering/Partner%20Org%20Scoping/GitHub%20Skills-Based%20Volunteering%20Project%20and%20Ask%20Scoping%20(1).pptx)._
 
 WFP manages cohorts of innovators through a program called the [Humanitarian Grand Challenge](https://humanitariangrandchallenge.org/). This program is a partnership of the U.S. Agency for International Development (USAID), the U.K. Foreign, Commonwealth & Development Office (FCDO), the Ministry of Foreign Affairs of the Netherlands, with support from Grand Challenges Canada. The Innovators are either startups by serial entrepreneurs, academics or NGOs and internal UN groups. These startups create solutions to help solve food scarcity and security issues. 
 
