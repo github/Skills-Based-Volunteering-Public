@@ -20,7 +20,7 @@ Currently the UNDP has a [repo](https://github.com/undp) for some of their proje
 
 # About the Projects/Products including in Skills-based Volunteering
 
-_To see descriptions and examples of project maturity levels, [(right) click to read this deck in a new tab](https://docs.google.com/presentation/d/1fVOChiPK4xJKT5s9W2M_MXqz0VcLwh3jx31c1HBqgPM/edit?usp=sharing)._
+_To see descriptions and examples of project maturity levels, [(right) click to read this deck in a new tab](https://microsoft.sharepoint.com/teams/GitHubITSupport/Sensitive%20Xubber%20Data/malakumar85@github.com/Skills-Based%20Volunteering/Partner%20Org%20Scoping/GitHub%20Skills-Based%20Volunteering%20Project%20and%20Ask%20Scoping%20(1).pptx)._
 
 ## 1. Data Visualization Project - Concept maturity level project
 **Objective**: Help users understand digital state of the nation for countries that complete the Rapid Country Survey. This includes visualizing private data output from our Typeform survey as well as public data from various provided datasets and APIs for international government agencies & UNDP Internal country offices

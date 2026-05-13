@@ -23,7 +23,7 @@ DHIS2 stands for the district health information software and is the world's lar
 
 # About the Projects/Products including in Skills-based Volunteering
 
-_To see descriptions and examples of project maturity levels, [(right) click to read this deck in a new tab](https://docs.google.com/presentation/d/1fVOChiPK4xJKT5s9W2M_MXqz0VcLwh3jx31c1HBqgPM/edit?usp=sharing)._
+_To see descriptions and examples of project maturity levels, [(right) click to read this deck in a new tab](https://microsoft.sharepoint.com/teams/GitHubITSupport/Sensitive%20Xubber%20Data/malakumar85@github.com/Skills-Based%20Volunteering/Partner%20Org%20Scoping/GitHub%20Skills-Based%20Volunteering%20Project%20and%20Ask%20Scoping%20(1).pptx)._
 
 ## 1. Product documentation - Established maturity level project
 DHIS2 needs volunteers to build out [4 quadrants of documentation](https://documentation.divio.com/) for a suite of tools targeted at 3rd party web application (and Android app) developers on [https://developers.dhis2.org](https://developers.dhis2.org). These are the types of documentation they are envisioning:
