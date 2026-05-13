@@ -7,7 +7,7 @@ assignees: csmlo malakumar85
 
 ---
 
-_To see descriptions and examples of these fields, [(right) click to read this deck in a new tab](https://docs.google.com/presentation/d/1fVOChiPK4xJKT5s9W2M_MXqz0VcLwh3jx31c1HBqgPM/edit?usp=sharing). To read about the partner organizations and projects/products, [(right) click to read in a new tab](https://github.com/github/SI-skills-based-volunteering/tree/main/Partner%20Organizations)._
+_To see descriptions and examples of these fields, [(right) click to read this deck in a new tab](https://microsoft.sharepoint.com/teams/GitHubITSupport/Sensitive%20Xubber%20Data/malakumar85@github.com/Skills-Based%20Volunteering/Partner%20Org%20Scoping/GitHub%20Skills-Based%20Volunteering%20Project%20and%20Ask%20Scoping%20(1).pptx). To read about the partner organizations and projects/products, [(right) click to read in a new tab](https://github.com/github/SI-skills-based-volunteering/tree/main/Partner%20Organizations)._
 
 ### Partner Organization and Project/Product
 **Partner Organization** -
